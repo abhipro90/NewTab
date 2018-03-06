@@ -2232,6 +2232,4 @@ jQuery(document).ready(function() {
     chessMove.initPlayArea();
     chessMove.adaptToResponse();
 });</script>
-<a href="/source_code.txt" download> <button>Source Code Download</button></a>
-</body>
 </html>
